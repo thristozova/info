@@ -18,8 +18,8 @@ Therefore, ATP plays a huge part in enabling you hold up your end to the deliver
 
 Utilizing a powerful ATP tool ensures your business can meet delivery deadlines and customer expectations by being punctual in product delivery. 
 
-Futhermore, mastering ATP empowers your business to come up with a systematic and sustainable inventory management strategy. 
-Such strategy allows you to make the apporpriate plans and arrangements, and ultimately cut down order fulfillment and product delivery times.  
+Furthermore, mastering ATP empowers your business to come up with a systematic and sustainable inventory management strategy. 
+Such strategy allows you to make the appropriate plans and arrangements, and ultimately cut down order fulfillment and product delivery times.  
 
 All these efforts, when applied properly, increase your company's capabilities for delivering as earlier as possible, making a positive impression on your customers. 
 Maintaining healthy customer relationships improves your business's market presence and reputation, which paves the way for returning customers, as well as referrals to new customers.  
