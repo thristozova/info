@@ -60,13 +60,13 @@ Available to promise quantities for any given product are calculated for the pre
 
 
 > [!NOTE]
-> Available to promise quantity should NOT be mistaken for Projected available balance.  
+> **Available to promise** inventory quantities should NOT be mistaken for **Projected available balance**.  
 > 
-> Available to promise shows only the inventory portion that remains available to offer for sale and delivery, aside from fulfilling already placed customer orders.  
+> Available to promise shows only this **inventory portion that remains physically available to offer for sale and delivery**, aside from fulfilling already placed customer orders or serving the company's own necessities.  
 > 
-> Projected available balance represents the full inventory amount that is expected to be physically on hand on any future date.  
+> Projected available balance represents **the full inventory amount** that is expected to be physically at hand for any successive future period.  
 > 
-> The two terms express different concepts.  
+> Although close in meaning and related in implementation, the two terms still express different concepts.  
 
 
 
