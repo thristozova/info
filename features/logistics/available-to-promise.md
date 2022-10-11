@@ -12,11 +12,10 @@ These portions of the inventory that are already reserved for fulfilling previou
 Delivering a product before the agreed deadline is one of the most important abilities for any distributor, retailer, or any other supplier.  
 
 When a customer places an order, they normally expect this order to be processed and delivered within a reasonable period. 
-Failing to deliver as promised, especially if happening repeatedly, is a sure reason for customers to turn away from one provider and move on to another.  
+Failing to fulfill orders and deliver goods as promised, especially if happening repeatedly, is a sure reason for customers to turn away from one provider and move on to another, resulting in experiencing a reduction in sales volumes.  
 
-Therefore, ATP plays a huge part in enabling you hold up your end to the delivery agreements made between you and your customers.
-
-Utilizing a powerful ATP tool ensures your business can meet delivery deadlines and customer expectations by being punctual in product delivery. 
+Therefore, ATP plays a huge part in enabling you to hold up your end to the delivery agreements made between you and your customers. 
+Utilizing a powerful ATP tool ensures your business can meet delivery deadlines and customer expectations by being punctual in product delivery.  
 
 Furthermore, mastering ATP empowers your business to come up with a systematic and sustainable inventory management strategy. 
 Such strategy allows you to make the appropriate plans and arrangements, and ultimately cut down order fulfillment and product delivery times.  
