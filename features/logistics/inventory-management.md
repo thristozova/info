@@ -2,6 +2,46 @@
 
 ## Overview
 
+An inventory is a combination of all available products and their quantities the company has at hand in its storage space. 
+From an informational perspective, these items are usually itemized and ordered in a listing like a spreadsheet, so all the information they can be viewed quickly and easily. 
+
+The items comprising the inventory are intended for sale, resale, as well as 
+
+The inventory is clearly the single most important structural aspect of any business that operates in manufacturing, distribution, retail, e-commerce, or any other form of activity involving physical goods.  
+
+## Inventory Management Concept
+
+
+
+
+
+
+
+The products can be ordered, grouped and sorted by 
+throughout a business's stores and warehouses, itemized by product and 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Available to promise or ATP** quantity represents the minimum quantity of a product that your company can offer to a customer and deliver it to that customer without making them wait longer than agreed due to falling short of stock.  
 
 ATP is an inventory management tool for determining the part of the inventory that is available for offering and promising to other customers. 
