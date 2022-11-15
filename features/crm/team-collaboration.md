@@ -20,15 +20,40 @@ Team Collaboration enables you to work ? in a convenient, adequate, and sustaina
 Social Groups are a brand-new functionality of @@name. 
 They are the next building block of the Social ERP concept implementation. 
 
+Groups are designed to virtually represent your company's actual teams and their work in @@name's environment. 
+Their purpose - achieve the ultimate standards in organizing and structuring the work, getting it done in an efficient, trackable, and timely manner.  
+
+Social Groups help your organization grow, connect, and streamline work and information flows in three major aspects:  
+
+1. They allow you to create a common environment and media for people to share, converse, and accomplish. 
+2. They put and retain focus on the work of the specific team and its members to avoid unwanted distractions in the process. 
+3. They combine all 
+
+who play key roles in much bigger activities 
+
+
 Comprising a stack of features, Social Groups allow you to integrate all of your internal teams' information flows using various interwoven features. 
 
-Groups enable you to target, divide, and combine your teamwork aspects to achieve the ultimate standards in organizational, scheduling, and task assignment accomplishments. 
+Groups enable you to target, divide, and combine your teamwork aspects to 
 
-Embracing the Social ERP model, you can tailor groups which targets just the right people concerned
+For starters, you can create groups tailored to the right people who play key roles in much bigger activities. 
+This gets your work teams on track by allowing people to communicate and work together seamlessly. 
+Instantly sharing all the necessary information between team players in a transparent and stable manner, , accelerates the process of making things happen.  
 
-divide the whole chunks of work throughout tailored groups
+
+This way you can achieve the first step as you divide the numerous chunks of work throughout groups distinguished by team and purpose.  
+
+
+
+the right people, be it separated by departments, 
+
+which targets just the right people concerned
+
+
 
 teamwork within a single group 
+
+occupy given job roles, take on specific assignments, and 
 
 Social Groups include the following features:  
 
@@ -38,9 +63,13 @@ Social Groups include the following features:
 * Group Files - 
 * Group Members - 
 
+ group events and appointments scheduling,  discussions, and executing tasks.  
+
 features such as instant communication, event scheduling, to-do tasks, and file storage. 
 
+hold the upper edge
 
+and allow you to hold the upper edge in your field
 
 
 
