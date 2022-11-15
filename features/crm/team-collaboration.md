@@ -18,11 +18,19 @@ Team Collaboration enables you to work ? in a convenient, adequate, and sustaina
 ## Social Groups in @@name
 
 Social Groups are a brand-new functionality of @@name. 
-They are the next brick 
-Comprising a stack of features
+They are the next building block of the Social ERP concept implementation. 
+Comprising a stack of features, Social Groups allow you to integrate all of your internal teams' information flow using various features. 
+Groups allow you to divide and combine: divide the team work within a single group which targets just the right people concerned
 
+Social Groups include the following features:  
 
+* Chatter - Instant communication, reactions
+* Social Calendar - 
+* To Do Tasks - 
+* Group Files - 
+* Group Members - 
 
+features such as instant communication, event scheduling, to-do tasks, and file storage. 
 
 
 
