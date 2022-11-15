@@ -15,7 +15,11 @@ But it also requires the right toolset in your
 
 Team Collaboration enables you to work ? in a convenient, adequate, and sustainable way 
 
+## Social Groups in @@name
 
+Social Groups are a brand-new functionality of @@name. 
+They are the next brick 
+Comprising a stack of features
 
 
 
