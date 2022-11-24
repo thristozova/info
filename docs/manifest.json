@@ -826,7 +826,7 @@
       "output": {
         ".html": {
           "relative_path": "features/applications/data-warehouse.html",
-          "hash": "Su5jXgvd7HSKs1/zt1K2+g=="
+          "hash": "PeX441OI/3HFU3N9ZXxuaA=="
         }
       },
       "is_incremental": false,
@@ -1562,6 +1562,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/highlights.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/highlights.html",
+          "hash": "tzK6G8eXcAUvR8qER3jJ3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/index.md",
       "output": {
         ".html": {
@@ -1685,6 +1697,18 @@
         ".html": {
           "relative_path": "features/logistics/lot-tracking.html",
           "hash": "zxg0iVMusQ8vpvYQMTkDNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/projected-available-balance.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/projected-available-balance.html",
+          "hash": "ys0BM4UEcORqoYqSshejbQ=="
         }
       },
       "is_incremental": false,
@@ -1875,7 +1899,7 @@
       "output": {
         ".html": {
           "relative_path": "features/productivity/index.html",
-          "hash": "CtL4DpX+IrMq94XCz4bIJA=="
+          "hash": "QBaPyUKCMTg6nNbJzj6AxA=="
         }
       },
       "is_incremental": false,
@@ -1935,7 +1959,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "UDLuWGQkC8k/2xlppOXNOw=="
+          "hash": "aOyswD/tOMPAYnXZoDe1vQ=="
         }
       },
       "is_incremental": false,
@@ -2103,7 +2127,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "RJn1NNBII1f7hm8L+DRKBA=="
+          "hash": "g9JMMjEhrVFj0cLmHUGu5Q=="
         }
       },
       "is_incremental": false,
@@ -2566,7 +2590,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "BWxCD2XR2bmyAQ+M4rWh1Q=="
+          "hash": "5H0yczI+yDqqsVeC1qX0GA=="
         }
       },
       "is_incremental": false,
@@ -2827,15 +2851,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
-          "hash": "DiQzhqUSI4EGe6lzdr8zQg=="
+          "hash": "lLY0104LYvvY9k9G+mrPnQ=="
         }
       },
       "is_incremental": false,
